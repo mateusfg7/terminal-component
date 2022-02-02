@@ -1,0 +1,13 @@
+{
+  "name": "terminal-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mateusfg7/terminal-component.git",
+  "author": "Mateus Felipe Gonçalves <mateusfelipefg77@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.3.3"
+  }
+}
